@@ -1,0 +1,32 @@
+body {
+    background-color: #43495B;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+   
+    background-image: url('./../assets/bg.png');
+    background-position: bottom right;
+    background-size: cover;
+}
+
+#logo {
+    width: 350px;
+    margin-bottom: 180px;
+    padding: 3em;
+}
+
+#logo img {
+    max-width: 100%;
+}
+
+#contact-card { 
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 3em;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 1.5em;
+}
